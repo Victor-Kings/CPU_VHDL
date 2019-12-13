@@ -3,7 +3,7 @@
 
 * ## Instruções Básicas 
 Intrução | Descrição 
--------- | -
+:-------- | :---------
  Mov Ri,Rj|  Move 
  Movi Ri,Imed|  Imed	Move Immediate 
 XCHG Ri,Rj|  Exchange
