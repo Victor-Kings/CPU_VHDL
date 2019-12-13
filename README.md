@@ -16,4 +16,7 @@ AND Ri,Imed| And Immediate
 OR Ri,Rj| Or
 ORI Ri,Imed| Or Immeadiate
 
+ ### Autores 
+ * Victor Reis, Marcos Junior, Erick Matheus, Hiago Silva
+
 
